@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm chandru</h1>
 <h3 align="center">I am a front-end web developerman_technologist who is passionate in writing code,buliding website and learning web technologies.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p>
-
-- 📫 How to reach me **chandru03012@gmail.com**
+ How to reach me **chandru03012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-chandru&show_icons=true&locale=en&layout=compact" alt="b-chandru" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-chandru&show_icons=true&locale=en" alt="b-chandru" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-chandru&show_icons=true&locale=en" alt="b-chandru" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-chandru&" alt="b-chandru" /></p>
 
