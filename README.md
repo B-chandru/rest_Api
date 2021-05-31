@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm chandru</h1>
 <h3 align="center">I am a front-end web developerman_technologist who is passionate in writing code,buliding website and learning web technologies.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b-chandru" alt="b-chandru" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p>
 
 - 📫 How to reach me **chandru03012@gmail.com**
 
