@@ -26,11 +26,9 @@ app.use((req,res,next)=>{
 })
 
 
-
-
-
 // connect to mongodb
-mongoose.connect(process.env.MONGODB, {useNewUrlParser: true, useUnifiedTopology: true} , (err)=>{
+
+mongoose.connect(process.env.MONGODB, {useNewUrlParser: true, useUnifiedTopology: true,  useCreateIndex: true, useFindAndModify: false } , (err)=>{
     if(err) {console.log("DB not connected")}
     console.log("DB connected...")
 });
