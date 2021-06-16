@@ -1,6 +1,6 @@
-# rest_pi
+# rest_Api
 
-A brief descript
+This repo is about how to create a rest API for beginners  using MVC pattern.
  
  ## Run Locally
 
@@ -34,4 +34,4 @@ To run this project, you will need to add the following environment variables to
 
 `PORT=5000`
 
-`MONGODB=mongodb://localhost:27017/event`
+`MONGODB=mongodb://localhost:27017/restapi`
