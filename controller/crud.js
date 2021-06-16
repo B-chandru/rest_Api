@@ -37,7 +37,7 @@ updateCrud : async (req,res)=>{
 },
 getbyidCrud : async (req,res)=>{
     const crudbyid = await Crud.findById(req.params.id)
-    res.status(400).json(crudbyid)
+    res.status(200).json(crudbyid)
 }
 
 }
