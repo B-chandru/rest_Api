@@ -1,18 +1,19 @@
+# rest_pi
 
-
+A brief descript
  
- Run Locally
+ ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/B-chandru/rest_Api.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd rest_Api
 ```
 
 Install dependencies
@@ -26,5 +27,11 @@ Start the server
 ```bash
   npm run start
 ```
-
   
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`PORT=5000`
+
+`MONGODB=mongodb://localhost:27017/event`
