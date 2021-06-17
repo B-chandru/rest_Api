@@ -43,10 +43,6 @@ To run this project, you will need to add the following environment variables to
 **Server:** Node, Express, Mongoose
 
   
-
-
-
-
 ## API Reference
 
 #### Get all items
@@ -69,7 +65,7 @@ To run this project, you will need to add the following environment variables to
   POST http://localhost:5000/app/
 ```
 
-for posting the json formate should be
+for post request  the json formate should be like this :
 
 ```bash
   
@@ -85,7 +81,7 @@ for posting the json formate should be
 ```http
   PUT http://localhost:5000/app/:id
 ```
-#### if your put request is successful then you get this response
+#### if the put request is successful then you get this as a response
 ```bash
   {
   "msg": "updated the msg"
@@ -98,7 +94,7 @@ for posting the json formate should be
   DELETE  http://localhost:5000/app/:id
 ```
 
-#### if your delete request is successful then you get this response
+#### if the delete request is successful then you get this as a response
 ```bash
  
 {
