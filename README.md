@@ -1,6 +1,12 @@
 # rest_Api
 
 This repo is about how to create a rest API for beginners  using MVC pattern.
+
+## Tech Stack
+
+**Database:** Mongodb
+
+**Server:** Node, Express, Mongoose
  
  ## Run Locally
 
@@ -36,11 +42,7 @@ To run this project, you will need to add the following environment variables to
 
 `MONGODB=mongodb://localhost:27017/restapi`
 
-## Tech Stack
 
-**Database:** Mongodb
-
-**Server:** Node, Express, Mongoose
 
   
 ## API Reference
