@@ -38,18 +38,15 @@ To run this project, you will need to add the following environment variables to
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Database:** Mongodb
 
-**Server:** Node, Express
-
-  
-
-
-
-## Demo
-
+**Server:** Node, Express, Mongoose
 
   
+
+
+
+
 ## API Reference
 
 #### Get all items
@@ -72,22 +69,6 @@ To run this project, you will need to add the following environment variables to
   POST http://localhost:5000/app/
 ```
 
-
-
-
-  #### put
-
-```http
-  PUT http://localhost:5000/app/:id
-```
-#### Delete
-
-```http
-  DELETE  http://localhost:5000/app/:id
-```
-
-####
-
 for posting the json formate should be
 
 ```bash
@@ -97,3 +78,33 @@ for posting the json formate should be
     "content":"how to create an api"
 }
 ```
+
+
+  #### put
+
+```http
+  PUT http://localhost:5000/app/:id
+```
+#### if your put request is successful then you get this response
+```bash
+  {
+  "msg": "updated the msg"
+   }
+```
+
+#### Delete
+
+```http
+  DELETE  http://localhost:5000/app/:id
+```
+
+#### if your delete request is successful then you get this response
+```bash
+ 
+{
+  "msg": "deleted the msg"
+}
+```
+
+
+
