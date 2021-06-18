@@ -78,7 +78,7 @@ for post request  the json formate should be like this :
 ```
 
 
-  #### put
+  #### Put
 
 ```http
   PUT http://localhost:5000/app/:id
