@@ -50,21 +50,21 @@ To run this project, you will need to add the following environment variables to
 #### Get all items
 
 ```http
-  GET  http://localhost:5000/app/
+   http://localhost:5000/app/
 ```
 
 
 #### Get items by id
 
 ```http
-  GET http://localhost:5000/app/:id
+   http://localhost:5000/app/:id
 ```
 
 
 #### post
 
 ```http
-  POST http://localhost:5000/app/
+   http://localhost:5000/app/
 ```
 
 for post request  the json formate should be like this :
